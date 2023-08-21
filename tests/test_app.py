@@ -9,7 +9,7 @@ class TestApp(unittest.TestCase):
         self.assertEqual(suma(1, 3), 4)
 
     def test_resta(self):
-        self.assertEqual(resta(3, 1), 4)
+        self.assertEqual(resta(3, 1), 2)
 
 
 if __name__ == '__main__':
