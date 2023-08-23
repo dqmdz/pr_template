@@ -12,7 +12,7 @@ class TestApp(unittest.TestCase):
         self.assertEqual(resta(3, 1), 2)
 
     def test_multi(self):
-        self.assertEqual(multi(2, 3), 8)
+        self.assertEqual(multi(2, 3), 6)
 
 
 if __name__ == '__main__':
