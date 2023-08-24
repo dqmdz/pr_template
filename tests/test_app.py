@@ -1,6 +1,6 @@
 import unittest
 
-from app.main import suma, resta, multi
+from app.main import suma, resta, multi, division
 
 
 class TestApp(unittest.TestCase):
