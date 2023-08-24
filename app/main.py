@@ -8,3 +8,6 @@ def resta(a, b):
 
 def multi(a, b):
     return a * b
+
+def division(a, b):
+    return a / b
